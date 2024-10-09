@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello Branch!\n");
-    printf("Bye");
+    printf("I'm done");
 
     return 0;
 }
